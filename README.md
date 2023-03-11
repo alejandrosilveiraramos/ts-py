@@ -15,9 +15,9 @@
 
 <h2> 🎯 Objetivo do Projeto 🎯 </h2>
 
-<p> Este repositório se destina a uma aplicação web que facilitara a abertura de MEI.
+<p> Este repositório se destina a uma aplicação web que acelera o precesso de abertura de empresas.
 <br><br>
-O objetivo é construir uma aplicação que facilitara a abertura de MEI, bem como todo o processo necessário para o mesmo, transparência nos documentos necessários, lembretes de pagamentos de guias e declarações anuais. </p>
+O objetivo é construir uma aplicação para acelerar o processo de abertura de empresas, bem como todo o processo necessário para o mesmo, transparência nos documentos necessários, lembretes de pagamentos de guias e declarações anuais. </p>
 
 
 <h3> :space_invader: O que foi Utilizado no Projeto :space_invader: </h3>
@@ -56,9 +56,8 @@ $ python manage.py runserver
 <h3> 💻 Autores 💻 </h3>
 
 <a href="https://github.com/alejandrosilveiraramos">Alejandro Silveira</a><br>
-<a href="">Dieter </a><br>
-<a href="">Gisele </a><br>
+<a href="https://github.com/weboss-br">Dieter Heiss</a><br>
+<a href="https://github.com/giselev">Gisele Vicente</a><br>
 <a href="https://github.com/MQSilveira">Marcos Silveira</a><br>
 <a href="https://github.com/marciolou">Márcio Lourenço</a><br>
 <a href="https://github.com/MelissaKonig">Melissa Konig</a>
-
