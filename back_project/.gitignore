@@ -1,3 +1,10 @@
+start_project.txt
+start_project
+
+URLS_SEM_CRUD.py
+MODELS_SEM_CRUD.py
+VIEWS_SEM_CRUD.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

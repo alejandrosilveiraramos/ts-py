@@ -1,1 +1,47 @@
---Start
+
+PROJETO:
+    main: Base do projeto
+
+
+APLICAÇÕES:
+	usuario: Aplicação onde irá conter tudo relacionado com o o usuário
+
+    empresa: Aplicação que irá armazenar as informações sobre as empresas que serão cadastradas no sistema
+
+    pagamentos: Irá conter informações dos pagamentos realizados pelos usuários para a criação do CNPJ 
+                (as taxas para mandar o mesmo ativo também)
+
+
+
+
+link login gov.br
+https://gov.br/login
+
+
+no whatsapp é feito a filtragem para saber oque ele precisa ter em mãos 
+
+
+senha do gov prata ou ouro
+    recuperação de senha caso não lembre
+    não tenhe nehuma base facial no sistema do governo 
+    direcionamento para o banco 
+
+endereço 
+    iptu 
+    contrato de locação (nome de terceiros)
+
+documentos pessoais
+
+celular com internet com acesso ao email do mesmo
+    quando acessamos o gov.br será enviado um email contendo o código gerador 
+
+
+encontrar a atividade dele (presencial)
+
+
+após a criação do MEI, o empreendedor precisa ir até o SEDEC para fazer o cadastro no municipio 
+
+
+
+
+
