@@ -17,7 +17,7 @@
 
 <p> Este repositório se destina a uma aplicação web que acelera o precesso de abertura de empresas.
 <br><br>
-O objetivo é construir uma aplicação para acelerar o processo de abertura de empresas, bem como todo o processo necessário para o mesmo, transparência nos documentos necessários, lembretes de pagamentos de guias e declarações anuais. </p>
+Construir uma aplicação para acelerar o processo de abertura de empresas, bem como todo o desenvolvimento necessário para o mesmo, transparência nos documentos necessários, lembretes de pagamentos de guias e declarações anuais. </p>
 
 
 <h3> :space_invader: O que foi Utilizado no Projeto :space_invader: </h3>
@@ -63,7 +63,7 @@ O software possui as seguintes funcionalidades:
 - Informativo de documentos necessários para abertura de MEI;
 - Assessoria na definição de ocupação do CNPJ gerado;
 - Assistência com obrigações geradas pela abertura do CNPJ, como mensalidades, declarações anuais, entre outras;
-- Abertura do CNPJ em si;
+- Abertura do CNPJ;
 - Direcionamento para a formalização do CNPJ, bem como a geração de notas fiscais.
 </p>
 
