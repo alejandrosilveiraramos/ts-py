@@ -5,6 +5,11 @@ import { Container, Box, Paper, Typography, Grid, ListItem, List, ListItemButton
 import { ChatModal } from '../components/chat-modal/ChatModal';
 
 export const Home = () => {
+
+    const [open, setOpen] = React.useState(false);
+    const handleOpen = () => setOpen(true);
+    const handleClose = () => setOpen(false);
+
     return(
         <React.Fragment>
             <Container maxWidth="lg">
@@ -38,9 +43,8 @@ export const Home = () => {
                         }}>
                             <List>
                                 <ListItem disablePadding>
-                                    <ListItemButton>
+                                    <ListItemButton onClick={handleOpen}>
                                     <ListItemText primary="Abrir o MEI" />
-                                    <ChatModal />
                                     </ListItemButton>
                                 </ListItem>
                                 <ListItem disablePadding>
@@ -70,6 +74,7 @@ export const Home = () => {
                     
                    
                 </Box>
+                <ChatModal open={open} handleClose={handleClose} />
             </Container>
         </React.Fragment>
     )
