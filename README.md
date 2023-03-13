@@ -12,6 +12,9 @@
     <img src="https://img.shields.io/badge/Vers%C3%A3o%20Final-Março%2F23-blue" alt="Badge Versão Final"/>
 </p>
 
+<p>
+  Não deixe a burocracia te empacar, FAÇA.MEI
+</p>
 
 <h2> 🎯 Objetivo do Projeto 🎯 </h2>
 
