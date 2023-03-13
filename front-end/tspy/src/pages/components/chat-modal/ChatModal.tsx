@@ -51,7 +51,7 @@ export const ChatModal : React.FC<ChatModalProps> = ({ open, handleClose }) => {
       >
         <Fade in={open}>
           <Box sx={style}>
-            <Typography id="transition-modal-title" variant="h4" component="h2" sx={{display: 'flex', alignItems: 'center', gap: '.2rem', margin: '2rem'}}>
+            <Typography id="transition-modal-title" variant="h4" component="h2" sx={{display: 'flex', alignItems: 'center', gap: '.2rem', margin: '2rem', borderRadius: '2rem'}}>
             <img width={100} src={facaMEI} alt="Logo Faca MEI" /> Chat Fácil 
             </Typography> 
             <CreateMei />

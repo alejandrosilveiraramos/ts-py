@@ -47,7 +47,6 @@ export const CreateMei: React.FC = () => {
             </Container>
         </React.Fragment>
 
-
   )
 
 }
