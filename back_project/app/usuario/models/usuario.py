@@ -4,6 +4,7 @@ from django.db import models
 class Usuario(models.Model):
     nome = models.CharField(max_length=100)
     email = models.EmailField(unique=True, max_length=100)
+    senha = models.CharField(max_length=64)
     celular = models.CharField(max_length=11)
     endereco = models.CharField(max_length=150)
     nivel = models.CharField(max_length=1)

@@ -4,7 +4,9 @@ PROJETO:
 
 
 APLICAÇÕES:
-	usuario: Aplicação onde irá conter tudo relacionado com o o usuário
+	# usuario: Aplicação onde irá conter tudo relacionado com o o usuário (futuro empreendedor)
+
+	# operador: Aplicação onde irá conter tudo relacionado com o o operador (funcionário puplico)
 
     empresa: Aplicação que irá armazenar as informações sobre as empresas que serão cadastradas no sistema
 
@@ -42,6 +44,22 @@ encontrar a atividade dele (presencial)
 após a criação do MEI, o empreendedor precisa ir até o SEDEC para fazer o cadastro no municipio 
 
 
+
+Home                view ok
+
+Tela de cadastro    oque vamos cadastrar??
+
+Área MEI            
+
+Sobre               oque terá no sobre ?
+
+Contato             contato 
+
+Secretaria de Desenvolvimento Econômico, Inovação e Empreendedorismo
+E-mail: sedec@blumenau.sc.gov.br
+Telefone: (47) 3381-6709
+Endereço: Rua São Paulo, 3366 - 3º andar - sala 302 - Prédio do Centro de Inovação - Victor Konder 89030-000 Blumenau - SC
+Horário: 08:00 às 12:00 | 13:30 às 17:30
 
 
 

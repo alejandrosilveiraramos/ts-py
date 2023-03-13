@@ -24,11 +24,11 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'django.contrib.staticfiles',   
+    'django.contrib.staticfiles',
+    'rest_framework',
     'app.usuario.apps.UsuarioConfig',
-    'app.operador.apps.OperadorConfig',
     'app.empresa.apps.EmpresaConfig',
-    'app.pagamentos.apps.PagamentosConfig'
+    'app.chat_usuario.apps.ChatUsuarioConfig'
 ]
 
 MIDDLEWARE = [
@@ -67,7 +67,7 @@ WSGI_APPLICATION = 'main.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'postgres',
         'USER': 'tspy',
         'PASSWORD': '1234',
