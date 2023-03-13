@@ -2,7 +2,7 @@
 
 
 <p>
-  <img src="" alt="Essa é a nossa logo" />
+  <img src="https://user-images.githubusercontent.com/113144754/224512387-b3a74e81-4c3d-4186-a660-18f9195523c1.png" alt="Essa é a nossa logo" />
 </p>
 
 
@@ -15,19 +15,21 @@
 
 <h2> 🎯 Objetivo do Projeto 🎯 </h2>
 
-<p> Este repositório se destina a uma aplicação web que facilitara a abertura de MEI.
+<p> Este repositório se destina a uma aplicação web que acelera o precesso de abertura de empresas.
 <br><br>
-O objetivo é construir uma aplicação que facilitara a abertura de MEI, bem como todo o processo necessário para o mesmo, transparência nos documentos necessários, lembretes de pagamentos de guias e declarações anuais. </p>
+Construir uma aplicação para acelerar o processo de abertura de empresas, bem como todo o desenvolvimento necessário para o mesmo, transparência nos documentos necessários, lembretes de pagamentos de guias e declarações anuais. </p>
 
 
 <h3> :space_invader: O que foi Utilizado no Projeto :space_invader: </h3>
 <ul>
-    <li>Django</li>
-    <li>Python</li>
-    <li>Postgres</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>TypeScript</li>
+    <li><a href="https://www.djangoproject.com">Django</a> - Framework web de alto nível escrito em Python que permite o desenvolvimento rápido e seguro de aplicativos complexos.</li>
+    <li><a href="https://www.python.org/downloads/release/python-3111/">Python</a> - Linguagem de programação popular conhecida por sua simplicidade, legibilidade e versatilidade.</li>
+    <li><a href="https://www.docker.com/products/docker-desktop/">Docker</a> - Plataforma de contêineres que permite aos desenvolvedores empacotar aplicativos em um ambiente isolado, facilitando a implantação e o gerenciamento de aplicativos em diferentes ambientes.</li>
+    <li><a href="https://www.postgresql.org/">Postgres</a> - PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto</li>
+    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a> - Linguagem de marcação usada para estruturar e exibir conteúdo na web.</li>
+    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a> - Linguagem de estilo usada para definir o layout e a aparência de páginas da web.</li>
+    <li><a href="https://www.typescriptlang.org/">TypeScript</a> - O TypeScript adiciona sintaxe adicional ao JavaScript para oferecer suporte a uma integração mais estreita com seu editor. Detecte erros mais cedo em seu editor.</li>
+    <li><a href="https://pt-br.reactjs.org/">React</a> - React faz com que a criação de UIs interativas seja uma tarefa fácil. Crie views simples para cada estado na sua aplicação, e o React irá atualizar e renderizar de forma eficiente apenas os componentes necessários na medida em que os dados mudam.</li>
 </ul>
 
 <h3> 🛠️ Install </h3>
@@ -53,12 +55,23 @@ $ python manage.py runserver
 ```
 >**Divirta-se!😁**
 
+<h3>🛠️ Funcionalidades 🛠️</h3>
+<p>
+O software possui as seguintes funcionalidades:
+
+- Assistência no processo de abertura de CNPJ;
+- Informativo de documentos necessários para abertura de MEI;
+- Assessoria na definição de ocupação do CNPJ gerado;
+- Assistência com obrigações geradas pela abertura do CNPJ, como mensalidades, declarações anuais, entre outras;
+- Abertura do CNPJ;
+- Direcionamento para a formalização do CNPJ, bem como a geração de notas fiscais.
+</p>
+
 <h3> 💻 Autores 💻 </h3>
 
 <a href="https://github.com/alejandrosilveiraramos">Alejandro Silveira</a><br>
-<a href="">Dieter </a><br>
-<a href="">Gisele </a><br>
+<a href="https://github.com/weboss-br">Dieter Heiss</a><br>
+<a href="https://github.com/giselev">Gisele Vicente</a><br>
 <a href="https://github.com/MQSilveira">Marcos Silveira</a><br>
 <a href="https://github.com/marciolou">Márcio Lourenço</a><br>
 <a href="https://github.com/MelissaKonig">Melissa Konig</a>
-
