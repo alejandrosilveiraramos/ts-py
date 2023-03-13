@@ -1,1 +1,65 @@
---Start
+
+PROJETO:
+    main: Base do projeto
+
+
+APLICAÇÕES:
+	# usuario: Aplicação onde irá conter tudo relacionado com o o usuário (futuro empreendedor)
+
+	# operador: Aplicação onde irá conter tudo relacionado com o o operador (funcionário puplico)
+
+    empresa: Aplicação que irá armazenar as informações sobre as empresas que serão cadastradas no sistema
+
+    pagamentos: Irá conter informações dos pagamentos realizados pelos usuários para a criação do CNPJ 
+                (as taxas para mandar o mesmo ativo também)
+
+
+
+
+link login gov.br
+https://gov.br/login
+
+
+no whatsapp é feito a filtragem para saber oque ele precisa ter em mãos 
+
+
+senha do gov prata ou ouro
+    recuperação de senha caso não lembre
+    não tenhe nehuma base facial no sistema do governo 
+    direcionamento para o banco 
+
+endereço 
+    iptu 
+    contrato de locação (nome de terceiros)
+
+documentos pessoais
+
+celular com internet com acesso ao email do mesmo
+    quando acessamos o gov.br será enviado um email contendo o código gerador 
+
+
+encontrar a atividade dele (presencial)
+
+
+após a criação do MEI, o empreendedor precisa ir até o SEDEC para fazer o cadastro no municipio 
+
+
+
+Home                view ok
+
+Tela de cadastro    oque vamos cadastrar??
+
+Área MEI            
+
+Sobre               oque terá no sobre ?
+
+Contato             contato 
+
+Secretaria de Desenvolvimento Econômico, Inovação e Empreendedorismo
+E-mail: sedec@blumenau.sc.gov.br
+Telefone: (47) 3381-6709
+Endereço: Rua São Paulo, 3366 - 3º andar - sala 302 - Prédio do Centro de Inovação - Victor Konder 89030-000 Blumenau - SC
+Horário: 08:00 às 12:00 | 13:30 às 17:30
+
+
+
