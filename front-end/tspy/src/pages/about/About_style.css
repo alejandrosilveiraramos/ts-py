@@ -1,0 +1,27 @@
+h3 {
+    font-size: 32px;
+    font-weight: 400px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-size: 16px;
+    line-height: 29px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.container2 img {
+    width: 200px;
+    display: inline;
+    flex-flow: row wrap;
+}
