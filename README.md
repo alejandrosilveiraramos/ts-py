@@ -18,6 +18,7 @@
 
 <h2> 🎯 Objetivo do Projeto 🎯 </h2>
 
+
 <p> Este repositório se destina a uma aplicação web que acelera o processo de abertura de empresas.
 <br><br>
 Construir uma aplicação para acelerar o processo de abertura de empresas, bem como todo o desenvolvimento necessário para o mesmo, transparência nos documentos necessários, lembretes de pagamentos de guias e declarações anuais. </p>
