@@ -1,0 +1,47 @@
+.container {
+    width: 100%;
+    height: 100%;
+
+    font-family: 'Inter';
+    font-style: normal;
+
+    background: #FBF7F7;
+    border-radius: 8px;
+}
+
+.container h3 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+}
+
+.container .contatos {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    text-align: center;
+}
+
+.container .descricao {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 39px;
+    text-align: justify;
+}
+
+.container img {
+    position: absolute;
+    width: 400px;
+    height: 343px;
+    right: 20px;
+    bottom: 20px;
+}
+
+.container a {
+    position: absolute;
+    text-decoration: none;
+    color: #FBF7F7;
+    right: 10px;
+    bottom: 10px;
+}
