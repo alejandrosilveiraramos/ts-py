@@ -4,10 +4,6 @@ from django.urls import path, include
 
 from rest_framework import routers
 
-
-
-
-
 from django.urls import path, include, re_path
 
 from django.views.generic import TemplateView
@@ -19,6 +15,7 @@ urlpatterns = [
 
 urlpatterns += [re_path(r'^.*', TemplateView.as_view(template_name='index.html'))]
 
+"""
 """
 from django.views.generic import TemplateView
 from django.contrib import admin
@@ -50,8 +47,9 @@ route_perguntas.register(r'', perguntasviewset.PerguntasViewset, basename='pergu
 
 route_respostas = routers.DefaultRouter()
 route_respostas.register(r'', respostasviewset.RespostasViewset, basename='respostas')
+"""
 
-
+"""
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include(router.urls)),
@@ -66,7 +64,23 @@ urlpatterns = [
     path('resposta/<int:id>/', respostaviewset.RespostaViewset.as_view(), name='resposta'),
     path('resposta/', respostaviewset.RespostaViewset.as_view(), name='resposta'),
 	path('api-auth/', include('rest_framework.urls'))
+]"""
+
+"""
+urlpatterns = [
+    path('usuarios/', usuariosviewset , name='UsuariosViewset')
+]"""
+
+from django.contrib import admin
+from django.urls import path, include, re_path
+from django.views.generic import TemplateView
+
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('api-auth/', include('rest_framework.urls')),
+    path('usuarios/', include('usuarios.urls'))
 ]
 
-
 urlpatterns += [re_path(r'^.*', TemplateView.as_view(template_name='index.html'))]
+
